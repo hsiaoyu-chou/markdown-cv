@@ -1,8 +1,3 @@
----
-layout: cv
-title: Hsiao-Yu Chou's CV
----
-
 # Hsiao-Yu Chou
 <div id="webaddress">
 <a href="littlefishchou.cs03g@g2.nctu.edu.tw">littlefishchou.cs03g@g2.nctu.edu.tw</a>
