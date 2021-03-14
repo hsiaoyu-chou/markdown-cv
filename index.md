@@ -1,3 +1,8 @@
+---
+layout: cv
+title: Hsiao-Yu Chou's CV
+---
+
 # Hsiao-Yu Chou
 <div id="webaddress">
 <a href="littlefishchou.cs03g@g2.nctu.edu.tw">littlefishchou.cs03g@g2.nctu.edu.tw</a>
@@ -10,7 +15,7 @@ Software Engineer with 3+ years experience in Advertising and Marketing Domain. 
 ## Experience
 `Dec. 2017 to Present`
 __TenMax ADTech Lab Co., LTD__
-Software Engineer
+- __Software Engineer__
 - Develop and maintain a demand-side platform (DSP) of real-time bidding eco-system
     - Implement bidding strategies, improve bidding flow and predict performance
     - Design a scalable infrastructure and monitor service status
@@ -23,7 +28,7 @@ Software Engineer
 
 `Jan. 2015 to Aug. 2016`
 __CacaFly Intl. Media__
-Internship
+- __Internship__
 - Researching and developing a cross-media advertising platform
 - Developing an advertisement performance report generating application
 - Developing a product feed generating application
@@ -48,19 +53,19 @@ __Tools__
 ## Education
 `Sep. 2014 to Sep. 2017`
 __National Chiao Tung University, Hsinchu, Taiwan__
-Institute of Computer Science and Engineering
+- __Institute of Computer Science and Engineering__
 - Master’s Degree, Distributed Computing System Lab	
 - Master’s Thesis: "Performance Prediction Model for Social Media Campaign." Advisor: Prof. Shyan-Ming Yuan
 - Relevant coursework: Network Programming, Data Center Networking Technology, Internet of Things Platform
 
 `Sep. 2016 to Sep. 2017`
 __RWTH Aachen University, Aachen, Germany__
-Computer Science
+- __Computer Science__
 - Exchange Student of Master’s Degree	
 - Relevant coursework: Advanced Internet Technology, Social Computing, Advanced Web Technology
 
 `Sep. 2010 to Jun. 2014`
 __National Chiao Tung University, Hsinchu, Taiwan__
-Department of Computer Science
+- __Department of Computer Science__
 - Bachelor’s Degree
 
