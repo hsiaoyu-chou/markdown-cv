@@ -2,7 +2,7 @@
 layout: cv
 title: Isaac Newtons's CV master
 ---
-# Isaac Newton
+# Isaac Newton master
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
