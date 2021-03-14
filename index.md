@@ -15,20 +15,17 @@ Software Engineer with 3+ years experience in Advertising and Marketing Domain. 
 ## Experience
 `Dec. 2017 to Present`
 __TenMax ADTech Lab Co., LTD__
--__Software Engineer__
+- __Software Engineer__
 - Develop and maintain a demand-side platform (DSP) of real-time bidding eco-system
-    - Implement bidding strategies, improve bidding flow and predict performance
-    - Design a scalable infrastructure and monitor service status
-    - Collect events and generate reports
+    - *Implement bidding strategies, improve bidding flow and predict performance. Design a scalable infrastructure and monitor service status. Collect events and generate reports*
 - Design and develop integration solutions for Oracle Eloqua
-    - Provide marketing tools like sending SMS and LINE messages and track the engagements
-- Design and develop a customer data platform which 
-    - Collecting audiences from online and offline
-    - Segment audiences with customized rules
+    - *Provide marketing tools like sending SMS and LINE messages and track the engagements.*
+- Design and develop a customer data platform 
+    - *Collecting audiences from online and offline. Segment audiences with customized rules.*
 
 `Jan. 2015 to Aug. 2016`
 __CacaFly Intl. Media__
--__Internship__
+- __Internship__
 - Researching and developing a cross-media advertising platform
 - Developing an advertisement performance report generating application
 - Developing a product feed generating application
@@ -65,4 +62,3 @@ __RWTH Aachen University, Aachen, Germany__
 __National Chiao Tung University, Hsinchu, Taiwan__
 - __Department of Computer Science__
 - Bachelor’s Degree
-
