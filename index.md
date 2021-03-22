@@ -23,7 +23,6 @@ __TenMax ADTech Lab Co., LTD__
 `Jan. 2015 to Aug. 2016`
 __CacaFly Intl. Media__
 - __Internship__
-- Researching and developing a cross-media advertising platform.
 - Developing an advertisement performance report generating application.
 - Developing a product feed generating application.
 
