@@ -12,7 +12,7 @@ title: Hsiao-Yu Chou's CV
 Software engineer with 1+ years in ecommerce and 3+ years experience in advertising and marketing domain. Experience in designing, developing and maintaining scalable applications. Work with Scrum Agile Methodology. Fast learner. Strong trobuleshooting and problem solving skills with analytical mindset.
 
 ## Experience
-`Jun. 2021 to Present`
+`Jun. 2021 to Aug. 2022`
 __Software Engineer - Digital River__
 - Clarify and reslove requirements from clients. Design and implement solutions to enhance shopper experiences.
 - Enhance Offer APIs. Clarify the capabilites and usages. Improve current APIs and create new APIs to provide more functionalities.
