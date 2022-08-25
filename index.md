@@ -15,7 +15,7 @@ Software engineer with 1+ years in ecommerce and 3+ years experience in advertis
 `Jun. 2021 to Aug. 2022`
 __Software Engineer - Digital River__
 - Clarify and reslove requirements from clients. Design and implement solutions to enhance shopper experiences.
-- Enhance Offer APIs. Clarify the capabilites and usages. Improve current APIs and create new APIs to provide more functionalities.
+- Enhance Offer APIs. Clarify the capabilities and usages. Improve current APIs and create new APIs to provide more functionalities.
 
 `Dec. 2017 to Jun. 2021`
 __Software Engineer - TenMax ADTech Lab Co., LTD__
