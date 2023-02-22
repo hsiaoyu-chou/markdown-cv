@@ -6,15 +6,16 @@ title: Hsiao-Yu Chou's CV
 # Hsiao-Yu Chou
 <div id="webaddress">
 <a href="littlefishchou.cs03g@g2.nctu.edu.tw">littlefishchou.cs03g@g2.nctu.edu.tw</a>
+<div>+1(650)237-9455</div>
 </div>
 
 ## Summary
-Software engineer with 1+ years in ecommerce and 3+ years experience in advertising and marketing domain. Experience in designing, developing and maintaining scalable applications. Work with Scrum Agile Methodology. Fast learner. Strong trobuleshooting and problem solving skills with analytical mindset.
+Software engineer with 1+ years in ecommerce and 3+ years experience in advertising and marketing domain. Experience in designing, developing and maintaining scalable applications. Work with Scrum Agile Methodology. Fast learner. Strong troubleshooting and problem solving skills with analytical mindset.
 
 ## Experience
 `Jun. 2021 to Aug. 2022`
 __Software Engineer - Digital River__
-- Clarify and reslove requirements from clients. Design and implement solutions to enhance shopper experiences.
+- Clarify and resolve requirements from clients. Design and implement solutions to enhance shopper experiences.
 - Enhance Offer APIs. Clarify the capabilities and usages. Improve current APIs and create new APIs to provide more functionalities.
 
 `Dec. 2017 to Jun. 2021`
@@ -41,12 +42,10 @@ __DevOps__
 - Deploy and monitor service health.
 - Improve performances of components.
 
-__Programming language__
-- Java, Python, JavaScript, Shell
-
 __Tools__
-- Git, Jenkins, Prometheus, Grafana, Kibana, Azure
-- Spark, SQL/NoSQL database(Cassandra, Postgres, Oracle)
+- Java, Python, JavaScript, Spring, React.js
+- Git, Jenkins, Prometheus, Grafana, Kibana, Azure, Bash
+- Spark, Kafka, SQL/NoSQL database(Cassandra, Postgres, Oracle), Redis
 
 ## Education
 `Sep. 2014 to Sep. 2017`
