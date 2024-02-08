@@ -13,6 +13,11 @@ title: Hsiao-Yu Chou's CV
 Software engineer with 1+ years in ecommerce and 3+ years experience in advertising and marketing domain. Experience in designing, developing and maintaining scalable applications. Work with Scrum Agile Methodology. Fast learner. Strong troubleshooting and problem solving skills with analytical mindset.
 
 ## Experience
+`Jul. 2023 to present`
+__Software Engineer - Walmart Global Tech__
+- Enhance the tool designed for partners seeking integration with Walmart Sponsor Product Ad API, streamlining their onboarding process into the system.
+- Contribute to enhancing the API service dedicated to campaign management and report generation.
+
 `Jun. 2021 to Aug. 2022`
 __Software Engineer - Digital River__
 - Clarify and resolve requirements from clients. Design and implement solutions to enhance shopper experiences.
